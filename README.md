@@ -1,0 +1,2 @@
+# DetecAnomalias
+ deteccion de anomalias
